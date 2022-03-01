@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: OLGA NALLELY GARCIA DIAZ
+  tagline: Ruby on Rails Web Developer
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: nallelygar.64@gmail.com
+  phone: 4451152862
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/nallely-garc%C3%ADa-53b869226/
+  github: https://github.com/nallely64
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: C2 Proficient
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -122,22 +119,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: C#
       level: 20%
 
-    - name: PyTorch
+    - name: Ruby
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
+    - name: HTML
+      level: 40%
 
-    - name: Caffe
-      level: 80%
+    - name: CSS
+      level: 40%
 
-    - name: Matlab
+    - name: 
       level: 100%
 
-    - name: C/C++
+    - name: 
       level: 40%
 
 # NO MODIFICAR
