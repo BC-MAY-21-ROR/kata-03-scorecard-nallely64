@@ -7,7 +7,7 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: OLGA NALLELY GARCIA DIAZ
+  name: Olga Nallely Garcia Diaz
   tagline: Ruby on Rails Web Developer
   avatar: escudo.png # No modificar
 
@@ -15,8 +15,8 @@ sidebar:
   email: nallelygar.64@gmail.com
   phone: 4451152862
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/nallely-garc%C3%ADa-53b869226/
-  github: https://github.com/nallely64
+  linkedin: nallely-garcía-53b869226/
+  github: nallely64
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -131,11 +131,8 @@ skills:
     - name: CSS
       level: 40%
 
-    - name: 
-      level: 100%
-
-    - name: 
-      level: 40%
+    - name: SQL Server
+      level: 20%
 
 # NO MODIFICAR
 footer: >
