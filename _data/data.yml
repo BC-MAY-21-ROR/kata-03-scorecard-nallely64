@@ -19,7 +19,7 @@ sidebar:
   github: nallely64
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,46 +40,63 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Open-mindedness
+      link: # dejar en blanco
+
+      item: Problem solving
+      link: # dejar en blanco
+
+      item: Accountability
+      link: # dejar en blanco
+
+      item: Creativity
+      link: # dejar en blanco
+
+      item: Time management
+      link: # dejar en blanco
+
+      item: Adaptability
+      link: # dejar en blanco
+
+      item: Work Ethic
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a person who started to interest in programming a few years ago, I studied a total different 
+    career but I never love completely what I was doing and what I was working at. Thanks to someone 
+    close to me, I learned about how wonderful programming is, and that is the reason I started to study 
+    on my own. I know it could be challenging but I personally find it fun and I love I can be creative 
+    on it. Besides, I always have loved technology. 
+
+    I try to have the most possible free time because that is when I study programming. I am willing to 
+    improve my coding skills and to learn every day something new.
+
+    I am proactive and I enjoy teamwork and self-learning. My short term goal is to become a junior
+    programmer at a company where I get the opportunity to demonstrate how valuable I am and where I can 
+    contribute to solve problems.
+
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+ 
+  - degree: Internship (Ruby on rails)
+    university: Brightcoders
+    time: February 2022 to present
     details: |
+      - Object oriented programming with Ruby
+      - Unit test cases implementation with RSpec
+      - use of tools like Rubocop, Rubicritics and Sandimeter for improving code
+      - Version control using GIT and GITHUB repositories 
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
 
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: Instituto Tecnologico Superior del Sur de Guanajuato
+    time: 2009 - 2013
     details: |
-      Master degree in Computer Engineering
+      Business management engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
