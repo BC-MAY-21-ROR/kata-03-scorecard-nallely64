@@ -43,22 +43,22 @@ sidebar:
     - item: Open-mindedness
       link: # dejar en blanco
 
-      item: Problem solving
+    - item: Problem solving
       link: # dejar en blanco
 
-      item: Accountability
+    -  item: Accountability
       link: # dejar en blanco
 
-      item: Creativity
+    -  item: Creativity
       link: # dejar en blanco
 
-      item: Time management
+    -  item: Time management
       link: # dejar en blanco
 
-      item: Adaptability
+    -  item: Adaptability
       link: # dejar en blanco
 
-      item: Work Ethic
+    -  item: Work Ethic
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -88,7 +88,7 @@ educationcomplete:
     details: |
       - Object oriented programming with Ruby
       - Unit test cases implementation with RSpec
-      - use of tools like Rubocop, Rubicritics and Sandimeter for improving code
+      - Use of tools like Rubocop, Rubycritic and Sandimeter to improve code
       - Version control using GIT and GITHUB repositories 
 
 
@@ -100,31 +100,18 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: console applications and WEB design
+    time: 
+    company: 
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Basic console applications using oriented object programming, conditionals, variable assignment,
+      cycles and switch.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      SQL server, basic database operations and stored procedures.
+
+      WEB design, forms design using basic HTML, CSS and JavaScript
+        
+
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
