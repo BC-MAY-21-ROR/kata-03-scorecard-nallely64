@@ -46,19 +46,19 @@ sidebar:
     - item: Problem solving
       link: # dejar en blanco
 
-    -  item: Accountability
+    - item: Accountability
       link: # dejar en blanco
 
-    -  item: Creativity
+    - item: Creativity
       link: # dejar en blanco
 
-    -  item: Time management
+    - item: Time management
       link: # dejar en blanco
 
-    -  item: Adaptability
+    - item: Adaptability
       link: # dejar en blanco
 
-    -  item: Work Ethic
+    - item: Work Ethic
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -100,18 +100,14 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: console applications and WEB design
+  - role: Console applications and WEB design
     time: 
     company: 
     details: |
-      Basic console applications using oriented object programming, conditionals, variable assignment,
-      cycles and switch.
-
-      SQL server, basic database operations and stored procedures.
-
-      WEB design, forms design using basic HTML, CSS and JavaScript
+      Basic console applications using oriented object programming, conditionals, variable assignment, cycles and switch. 
+      SQL server, basic database operations and stored procedures. 
+      WEB design, forms design using basic HTML, CSS and JavaScript.
         
-
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
