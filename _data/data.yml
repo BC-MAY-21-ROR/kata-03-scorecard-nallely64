@@ -87,7 +87,8 @@ educationcomplete:
     time: February 2022 to present
     details: |
       - Object oriented programming with Ruby
-      - Unit test cases implementation with RSpec
+      - Ruby on Rails basic CRUD operations
+      - Use of Scaffolds to create the models, views, and controllers
       - Use of tools like Rubocop, Rubycritic and Sandimeter to improve code
       - Version control using GIT and GITHUB repositories 
 
@@ -124,6 +125,9 @@ skills:
 
     - name: Ruby
       level: 40%
+      
+    - name: Rails
+      level: 20%
 
     - name: HTML
       level: 40%
